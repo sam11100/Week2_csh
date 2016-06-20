@@ -1,0 +1,5 @@
+C:\Users\student\Documents\GitHub\Week2_c#\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\student\Documents\GitHub\Week2_c#\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\student\Documents\GitHub\Week2_c#\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\student\Documents\GitHub\Week2_c#\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\student\Documents\GitHub\Week2_c#\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
