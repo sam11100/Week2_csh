@@ -4,3 +4,6 @@ C:\Users\student\Documents\GitHub\Week2_c#\ConsoleApplication1\ConsoleApplicatio
 C:\Users\student\Documents\GitHub\Week2_c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\student\Documents\GitHub\Week2_c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\student\Documents\GitHub\Week2_c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\student\Documents\GitHub\Week2_csh\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\student\Documents\GitHub\Week2_csh\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\student\Documents\GitHub\Week2_csh\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
